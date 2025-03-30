@@ -1,6 +1,4 @@
 # Reactor
-Your server, your rules ⚛️
-
 A modular, fast, and scalable minecraft server written in java
 
 
